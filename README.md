@@ -1,2 +1,2 @@
-# user-agent
-Browser User Agent String
+# User-agent
+Browser and Bot User Agent String
